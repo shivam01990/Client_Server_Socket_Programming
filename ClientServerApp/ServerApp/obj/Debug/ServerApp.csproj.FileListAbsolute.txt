@@ -1,0 +1,32 @@
+c:\users\20100242\documents\visual studio 2013\Projects\ClientApp\ServerApp\bin\Debug\ServerApp.exe.config
+c:\users\20100242\documents\visual studio 2013\Projects\ClientApp\ServerApp\bin\Debug\ServerApp.exe
+c:\users\20100242\documents\visual studio 2013\Projects\ClientApp\ServerApp\bin\Debug\ServerApp.pdb
+c:\users\20100242\documents\visual studio 2013\Projects\ClientApp\ServerApp\obj\Debug\ServerApp.csprojResolveAssemblyReference.cache
+c:\users\20100242\documents\visual studio 2013\Projects\ClientApp\ServerApp\obj\Debug\MainWindow.baml
+c:\users\20100242\documents\visual studio 2013\Projects\ClientApp\ServerApp\obj\Debug\MainWindow.g.cs
+c:\users\20100242\documents\visual studio 2013\Projects\ClientApp\ServerApp\obj\Debug\App.g.cs
+c:\users\20100242\documents\visual studio 2013\Projects\ClientApp\ServerApp\obj\Debug\ServerApp_MarkupCompile.cache
+c:\users\20100242\documents\visual studio 2013\Projects\ClientApp\ServerApp\obj\Debug\ServerApp.g.resources
+c:\users\20100242\documents\visual studio 2013\Projects\ClientApp\ServerApp\obj\Debug\ServerApp.Properties.Resources.resources
+c:\users\20100242\documents\visual studio 2013\Projects\ClientApp\ServerApp\obj\Debug\ServerApp.csproj.GenerateResource.Cache
+c:\users\20100242\documents\visual studio 2013\Projects\ClientApp\ServerApp\obj\Debug\ServerApp.exe
+c:\users\20100242\documents\visual studio 2013\Projects\ClientApp\ServerApp\obj\Debug\ServerApp.pdb
+c:\users\20100242\documents\visual studio 2013\Projects\ClientApp\ServerApp\obj\Debug\ServerApp_MarkupCompile.lref
+c:\users\20100242\documents\visual studio 2013\Projects\ClientApp\ServerApp\obj\Debug\Styles\Style.baml
+E:\Test apps\ClientServerApp\ServerApp\bin\Debug\ServerApp.exe.config
+E:\Test apps\ClientServerApp\ServerApp\bin\Debug\ServerApp.exe
+E:\Test apps\ClientServerApp\ServerApp\bin\Debug\ServerApp.pdb
+E:\Test apps\ClientServerApp\ServerApp\bin\Debug\CommonLib.dll
+E:\Test apps\ClientServerApp\ServerApp\bin\Debug\CommonLib.pdb
+E:\Test apps\ClientServerApp\ServerApp\obj\Debug\ServerApp.csprojResolveAssemblyReference.cache
+E:\Test apps\ClientServerApp\ServerApp\obj\Debug\MainWindow.g.cs
+E:\Test apps\ClientServerApp\ServerApp\obj\Debug\App.g.cs
+E:\Test apps\ClientServerApp\ServerApp\obj\Debug\ServerApp_MarkupCompile.cache
+E:\Test apps\ClientServerApp\ServerApp\obj\Debug\ServerApp_MarkupCompile.lref
+E:\Test apps\ClientServerApp\ServerApp\obj\Debug\MainWindow.baml
+E:\Test apps\ClientServerApp\ServerApp\obj\Debug\Styles\Style.baml
+E:\Test apps\ClientServerApp\ServerApp\obj\Debug\ServerApp.g.resources
+E:\Test apps\ClientServerApp\ServerApp\obj\Debug\ServerApp.Properties.Resources.resources
+E:\Test apps\ClientServerApp\ServerApp\obj\Debug\ServerApp.csproj.GenerateResource.Cache
+E:\Test apps\ClientServerApp\ServerApp\obj\Debug\ServerApp.exe
+E:\Test apps\ClientServerApp\ServerApp\obj\Debug\ServerApp.pdb

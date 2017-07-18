@@ -1,0 +1,9 @@
+c:\users\20100242\documents\visual studio 2013\Projects\ClientApp\CommonLib\bin\Debug\CommonLib.dll
+c:\users\20100242\documents\visual studio 2013\Projects\ClientApp\CommonLib\bin\Debug\CommonLib.pdb
+c:\users\20100242\documents\visual studio 2013\Projects\ClientApp\CommonLib\obj\Debug\CommonLib.dll
+c:\users\20100242\documents\visual studio 2013\Projects\ClientApp\CommonLib\obj\Debug\CommonLib.pdb
+c:\users\20100242\documents\visual studio 2013\Projects\ClientApp\CommonLib\obj\Debug\CommonLib.csprojResolveAssemblyReference.cache
+E:\Test apps\ClientServerApp\CommonLib\bin\Debug\CommonLib.dll
+E:\Test apps\ClientServerApp\CommonLib\bin\Debug\CommonLib.pdb
+E:\Test apps\ClientServerApp\CommonLib\obj\Debug\CommonLib.dll
+E:\Test apps\ClientServerApp\CommonLib\obj\Debug\CommonLib.pdb

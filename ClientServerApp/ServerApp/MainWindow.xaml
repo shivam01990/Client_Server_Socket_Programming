@@ -1,0 +1,55 @@
+﻿<Window x:Class="ServerApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+         xmlns:local="clr-namespace:ServerApp"
+        Title="MainWindow" WindowState="Maximized">
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="pack://application:,,,/Styles/Style.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Window.Resources>
+    <Grid HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="15*" />
+            <RowDefinition Height="85*" />
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="20*" />
+                <ColumnDefinition Width="4*" />
+                <ColumnDefinition Width="38*" />
+                <ColumnDefinition Width="38*" />
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+
+            <TextBlock Grid.Column="0" Grid.Row="0" Grid.RowSpan="2" Grid.ColumnSpan="3" Text="Server" HorizontalAlignment="Center" FontSize="30" VerticalAlignment="Center" />
+
+            <Button Grid.Row="0" Grid.Column="3" Content="Connect" Height="32" HorizontalAlignment="Left" IsEnabled="True" Margin="50,0,0,0"
+                Name="buttonConnect" VerticalAlignment="Center" Width="88" Click="ButtonConnect_Click"  />
+            <Button Grid.Row="1" Content="Disconnect" Height="32" HorizontalAlignment="Left" IsEnabled="False" Margin="50,0,0,0"
+                Name="buttonDisConnect" Grid.Column="3" VerticalAlignment="Center" Width="88" Click="ButtonDisConnect_Click"  />
+        </Grid>
+
+        <Grid Grid.Row="1">
+            <Expander IsExpanded="True" VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+                <Expander.Header>
+                    <Grid HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+                        <TextBlock HorizontalAlignment="Center">Recieved Client Message</TextBlock>
+                    </Grid>
+                </Expander.Header>
+                <ScrollViewer VerticalScrollBarVisibility="Auto" Height="Auto">
+                    <Grid HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+                        <RichTextBox FontWeight="Bold" IsReadOnly="True" Name="RichTextBoxCommand" MouseUp="RichTextBoxCommand_MouseUp" ScrollViewer.VerticalScrollBarVisibility="Auto" HorizontalAlignment="Stretch"></RichTextBox>
+                    </Grid>
+                </ScrollViewer>
+            </Expander>
+        </Grid>
+    </Grid>
+</Window>

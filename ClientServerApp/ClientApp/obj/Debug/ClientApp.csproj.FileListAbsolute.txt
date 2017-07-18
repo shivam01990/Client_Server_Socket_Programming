@@ -1,0 +1,21 @@
+c:\users\20100242\documents\visual studio 2013\Projects\ClientApp\ClientApp\bin\Debug\ClientApp.exe.config
+c:\users\20100242\documents\visual studio 2013\Projects\ClientApp\ClientApp\bin\Debug\ClientApp.exe
+c:\users\20100242\documents\visual studio 2013\Projects\ClientApp\ClientApp\bin\Debug\ClientApp.pdb
+c:\users\20100242\documents\visual studio 2013\Projects\ClientApp\ClientApp\obj\Debug\ClientApp.csprojResolveAssemblyReference.cache
+c:\users\20100242\documents\visual studio 2013\Projects\ClientApp\ClientApp\obj\Debug\ClientApp.Properties.Resources.resources
+c:\users\20100242\documents\visual studio 2013\Projects\ClientApp\ClientApp\obj\Debug\ClientApp.csproj.GenerateResource.Cache
+c:\users\20100242\documents\visual studio 2013\Projects\ClientApp\ClientApp\obj\Debug\ClientApp.exe
+c:\users\20100242\documents\visual studio 2013\Projects\ClientApp\ClientApp\obj\Debug\ClientApp.pdb
+E:\Test apps\ClientServerApp\ClientApp\bin\Debug\ClientApp.exe.config
+E:\Test apps\ClientServerApp\ClientApp\bin\Debug\ClientApp.exe
+E:\Test apps\ClientServerApp\ClientApp\bin\Debug\ClientApp.pdb
+E:\Test apps\ClientServerApp\ClientApp\bin\Debug\CommonLib.Adapter.dll
+E:\Test apps\ClientServerApp\ClientApp\bin\Debug\CommonLib.dll
+E:\Test apps\ClientServerApp\ClientApp\bin\Debug\CommonLib.Adapter.pdb
+E:\Test apps\ClientServerApp\ClientApp\bin\Debug\CommonLib.pdb
+E:\Test apps\ClientServerApp\ClientApp\obj\Debug\ClientApp.csprojResolveAssemblyReference.cache
+E:\Test apps\ClientServerApp\ClientApp\obj\Debug\ClientApp.Properties.Resources.resources
+E:\Test apps\ClientServerApp\ClientApp\obj\Debug\ClientApp.csproj.GenerateResource.Cache
+E:\Test apps\ClientServerApp\ClientApp\obj\Debug\ClientApp.exe
+E:\Test apps\ClientServerApp\ClientApp\obj\Debug\ClientApp.pdb
+E:\Test apps\ClientServerApp\ClientApp\obj\Debug\ClientApp.Form1.resources

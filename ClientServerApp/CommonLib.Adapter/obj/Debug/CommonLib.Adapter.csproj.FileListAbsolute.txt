@@ -1,0 +1,10 @@
+c:\users\20100242\documents\visual studio 2013\Projects\ClientApp\CommonLib.Adapter\bin\Debug\CommonLib.Adapter.dll
+c:\users\20100242\documents\visual studio 2013\Projects\ClientApp\CommonLib.Adapter\bin\Debug\CommonLib.Adapter.pdb
+c:\users\20100242\documents\visual studio 2013\Projects\ClientApp\CommonLib.Adapter\obj\Debug\CommonLib.Adapter.csprojResolveAssemblyReference.cache
+c:\users\20100242\documents\visual studio 2013\Projects\ClientApp\CommonLib.Adapter\obj\Debug\CommonLib.Adapter.dll
+c:\users\20100242\documents\visual studio 2013\Projects\ClientApp\CommonLib.Adapter\obj\Debug\CommonLib.Adapter.pdb
+E:\Test apps\ClientServerApp\CommonLib.Adapter\bin\Debug\CommonLib.Adapter.dll
+E:\Test apps\ClientServerApp\CommonLib.Adapter\bin\Debug\CommonLib.Adapter.pdb
+E:\Test apps\ClientServerApp\CommonLib.Adapter\obj\Debug\CommonLib.Adapter.dll
+E:\Test apps\ClientServerApp\CommonLib.Adapter\obj\Debug\CommonLib.Adapter.pdb
+E:\Test apps\ClientServerApp\CommonLib.Adapter\obj\Debug\CommonLib.Adapter.csprojResolveAssemblyReference.cache
